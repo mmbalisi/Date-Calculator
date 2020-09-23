@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\Major Activity\Activity 2\DateCalculator.Balisi\bin\Debug\DateCalculator.Balisi.exe.config
+C:\Users\hp\Documents\Major Activity\Activity 2\DateCalculator.Balisi\bin\Debug\DateCalculator.Balisi.exe
+C:\Users\hp\Documents\Major Activity\Activity 2\DateCalculator.Balisi\bin\Debug\DateCalculator.Balisi.pdb
+C:\Users\hp\Documents\Major Activity\Activity 2\DateCalculator.Balisi\obj\Debug\DateCalculator.Balisi.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Major Activity\Activity 2\DateCalculator.Balisi\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Documents\Major Activity\Activity 2\DateCalculator.Balisi\obj\Debug\App.g.cs
+C:\Users\hp\Documents\Major Activity\Activity 2\DateCalculator.Balisi\obj\Debug\DateCalculator.Balisi_MarkupCompile.cache
+C:\Users\hp\Documents\Major Activity\Activity 2\DateCalculator.Balisi\obj\Debug\DateCalculator.Balisi_MarkupCompile.lref
+C:\Users\hp\Documents\Major Activity\Activity 2\DateCalculator.Balisi\obj\Debug\MainWindow.baml
+C:\Users\hp\Documents\Major Activity\Activity 2\DateCalculator.Balisi\obj\Debug\DateCalculator.Balisi.g.resources
+C:\Users\hp\Documents\Major Activity\Activity 2\DateCalculator.Balisi\obj\Debug\DateCalculator.Balisi.Properties.Resources.resources
+C:\Users\hp\Documents\Major Activity\Activity 2\DateCalculator.Balisi\obj\Debug\DateCalculator.Balisi.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Major Activity\Activity 2\DateCalculator.Balisi\obj\Debug\DateCalculator.Balisi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Major Activity\Activity 2\DateCalculator.Balisi\obj\Debug\DateCalculator.Balisi.exe
+C:\Users\hp\Documents\Major Activity\Activity 2\DateCalculator.Balisi\obj\Debug\DateCalculator.Balisi.pdb
