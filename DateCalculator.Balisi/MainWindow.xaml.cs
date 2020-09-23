@@ -38,6 +38,13 @@ namespace DateCalculator.Balisi
             MessageBox.Show(days.ToString());
 
 
+            var xdays = (nextBirthday2021 - now).TotalDays;
+            lblDays.Content = "You are " + xdays + " days old";
+
+
+
+
+
 
 
 
